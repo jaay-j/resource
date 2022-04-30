@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(24, 19, 94);
+}
+
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: yellow;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    color: rgb(207, 137, 44);
+    font-weight: 900;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: white;
+    font-weight: normal;
+    line-height: 40px;
+    text-align: center;
+}
+
+a {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: yellow;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: white;
+}
